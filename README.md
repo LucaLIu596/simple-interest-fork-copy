@@ -1,4 +1,4 @@
-# Simple Interest Shell Script Project
+# Simple Interest Shell Script Assignment Project
 This open-source project provides a bash script named `simple-interest.sh` to calculate simple interest by accepting user input for principal, annual interest rate, and time in years. This repository follows standard open-source project specifications, including an Apache 2.0 license, contribution guidelines, and a community code of conduct.
 
 ## Repository File Structure
